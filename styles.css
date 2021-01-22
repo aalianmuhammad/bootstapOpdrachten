@@ -1,0 +1,17 @@
+.table, th, td
+{
+    border: 2px solid rgb(128, 128, 128);
+    border-collapse: collapse;
+    font-weight: bold;
+} 
+
+.body
+{
+    background: #021936  
+}
+
+.jumbotron
+{
+    background-image: url ("images/bloemen.jpg");
+    background-size: cover;
+}
